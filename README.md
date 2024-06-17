@@ -1,4 +1,4 @@
-# check_equivalance
+# check_equivalance.py
 이 모듈은 관계 R이 동치 관계인지 확인하는 모듈입니다.
 
 ## cheak_reflexive(R, A)
