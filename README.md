@@ -3,7 +3,7 @@
 
 ## cheak_reflexive(R, A)
 관계 R이 반사 관계인지 확인하는 함수입니다.
-- 
+
 이 함수에서는 전체 집합인 A를 입력받아 반사 관계 집합을 생성하고 그 관계가 R의 부분집합이면 True를 반환, 아니면 False 반환합니다.
 
 ## cheak_symmetric(R)
